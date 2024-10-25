@@ -2,12 +2,15 @@
 
 I'm currently pursuing my **Bachelor's Degree in Computer Engineering** (S1 Teknik Komputer) with a strong passion for technology and software development. As an aspiring computer engineer, I enjoy working on projects related to data structures, algorithms, and web development. 
 
+[![](https://visitcount.itsvg.in/api?id=WahyuNurSetiawan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🔧  Currently Learning
 <!--Skills and Interests-->
 - Programming languages: C, C++, Python
 - Data Structures and Algorithms
 - Web Development (HTML, CSS, JavaScript)
 - Database Design and Management
+<!-- <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <!-- Networking and Network-Attached Storage (NAS)-->
 
 ## 🌱 Current Focus
@@ -37,6 +40,6 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuNurSetiawan&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WahyuNurSetiawan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
