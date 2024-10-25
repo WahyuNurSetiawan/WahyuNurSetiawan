@@ -2,24 +2,26 @@
 
 I'm currently pursuing my **Bachelor's Degree in Computer Engineering** (S1 Teknik Komputer) with a strong passion for technology and software development. As an aspiring computer engineer, I enjoy working on projects related to data structures, algorithms, and web development. 
 
-## 🔧 Skills and Interests
+## 🔧  Currently Learning
+<!--Skills and Interests-->
 - Programming languages: C, C++, Python
 - Data Structures and Algorithms
 - Web Development (HTML, CSS, JavaScript)
 - Database Design and Management
-- Networking and Network-Attached Storage (NAS)
+<!-- Networking and Network-Attached Storage (NAS)-->
 
 ## 🌱 Current Focus
 Right now, I'm focusing on:
-- Building a web-based library database system as part of my research project.
-- Implementing efficient data structures for optimized storage and retrieval.
+- Learning new thing
+<!-- Building a web-based library database system as part of my research project.
+- Implementing efficient data structures for optimized storage and retrieval. -->
 
 ## 📚 Education
-- **S1 Teknik Komputer** at XYZ University (Expected Graduation: 202X)
+- **S1 Teknik Komputer** at Mulawarman University (Expected Graduation: 2025)
 
 ## 📫 How to Reach Me
-- Email: wahyu.nur@example.com
-- LinkedIn: [Wahyu Nur Setiawan](https://www.linkedin.com/in/username)
+- Email: wahyu.bukan.wagyu@gmail.com
+<!-- LinkedIn: [Wahyu Nur Setiawan](https://www.linkedin.com/in/username)-->
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaboration or just want to connect!
 
