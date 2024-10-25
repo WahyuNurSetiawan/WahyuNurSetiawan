@@ -20,7 +20,7 @@ Right now, I'm focusing on:
 - **S1 Teknik Komputer** at Mulawarman University (Expected Graduation: 2025)
 
 ## 📫 How to Reach Me
-- Email: wahyu.bukan.wagyu@gmail.com
+- Email: wahyunursetiawan1@gmail.com
 <!-- LinkedIn: [Wahyu Nur Setiawan](https://www.linkedin.com/in/username)-->
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaboration or just want to connect!
