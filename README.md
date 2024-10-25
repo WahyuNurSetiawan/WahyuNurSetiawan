@@ -1,5 +1,28 @@
-# 💫 About Me:
-# Hi, I'm Wahyu Nur Setiawan! 👋<br><br>I'm currently pursuing my **Bachelor's Degree in Computer Engineering** (S1 Teknik Komputer) with a strong passion for technology and software development. As an aspiring computer engineer, I enjoy working on projects related to data structures, algorithms, and web development. <br><br>## 🔧 Skills and Interests<br>- Programming languages: C, C++, Python<br>- Data Structures and Algorithms<br>- Web Development (HTML, CSS, JavaScript)<br>- Database Design and Management<br>- Networking and Network-Attached Storage (NAS)<br><br>## 🌱 Current Focus<br>Right now, I'm focusing on:<br>- Building a web-based library database system as part of my research project.<br>- Implementing efficient data structures for optimized storage and retrieval.<br><br>## 📚 Education<br>- **S1 Teknik Komputer** at XYZ University (Expected Graduation: 202X)<br><br>## 📫 How to Reach Me<br>- Email: wahyu.nur@example.com<br>- LinkedIn: [Wahyu Nur Setiawan](https://www.linkedin.com/in/username)<br><br>Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaboration or just want to connect!<br>
+# Hi, I'm Wahyu Nur Setiawan! 👋
+
+I'm currently pursuing my **Bachelor's Degree in Computer Engineering** (S1 Teknik Komputer) with a strong passion for technology and software development. As an aspiring computer engineer, I enjoy working on projects related to data structures, algorithms, and web development. 
+
+## 🔧 Skills and Interests
+- Programming languages: C, C++, Python
+- Data Structures and Algorithms
+- Web Development (HTML, CSS, JavaScript)
+- Database Design and Management
+- Networking and Network-Attached Storage (NAS)
+
+## 🌱 Current Focus
+Right now, I'm focusing on:
+- Building a web-based library database system as part of my research project.
+- Implementing efficient data structures for optimized storage and retrieval.
+
+## 📚 Education
+- **S1 Teknik Komputer** at XYZ University (Expected Graduation: 202X)
+
+## 📫 How to Reach Me
+- Email: wahyu.nur@example.com
+- LinkedIn: [Wahyu Nur Setiawan](https://www.linkedin.com/in/username)
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you're interested in collaboration or just want to connect!
+
 
 
 # 💻 Tech Stack:
